@@ -2,12 +2,13 @@
   <div>
     <section class="c-hero">
       <div class="c-hero__body">
-        <p class="c-hero__body__lead">We Enjoy Technology</p>
+        <p class="c-hero__body__lead">welcome studio malias</p>
         <p class="c-hero__body__text">
-          すべての開発者が自由な開発に取り組める世界の実現へ
+          撮影料・衣装レンタル料・出張撮影料　０円<br />
+        気に入ったお写真をご購入頂けます。
         </p>
       </div>
-      <img src="~/assets/image/top-hero.png" alt="hero" class="c-hero__image" />
+      <img src="~/assets/image/11_30shimizu sama2022_DSC_2705.jpg" alt="hero" class="c-hero__image" />
     </section>
 
     <section class="l-container--large l-container--contents">
