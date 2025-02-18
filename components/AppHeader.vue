@@ -3,7 +3,7 @@
     <div class="l-header__inner">
       <div class="l-header__logo">
         <NuxtLink to="/" @click.native="Drawer = false"
-          ><img src="~/assets/image/logo.svg" alt="Company Name" />
+          ><img src="~/assets/image/logo.jpg" alt="Company Name" />
         </NuxtLink>
       </div>
       <nav class="l-header__nav">
