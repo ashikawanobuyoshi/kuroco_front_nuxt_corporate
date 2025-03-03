@@ -1,0 +1,1 @@
+# kuroco_front_nuxt_corporate
