@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     public: {
       kurocoApiDomain: 'https://studiomalias-corporete.g.kuroco.app',
     },
-  },
+  },git remote -v
   app: {
     head: {
       title: 'front_nuxt_corporate',
